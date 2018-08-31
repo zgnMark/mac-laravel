@@ -104,7 +104,7 @@ return [
     |
     */
 
-    'key' => env('base64:Otw6wG7exOTiITlB6U80f7VirJBKhPviWM0a6qe9ZLc='),
+    'key' => 'base64:Otw6wG7exOTiITlB6U80f7VirJBKhPviWM0a6qe9ZLc=',
 
     'cipher' => 'AES-256-CBC',
 
